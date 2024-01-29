@@ -19,7 +19,7 @@ Let's code and create delightful user interfaces together! 💻✨
 <!-- ### Hi there, I'm Tahira Jannat! 👋 -->
 
 <p align="center">
-  <img src="https://your-image-url-here.jpg" width="200" alt="Tahira Jannat">
+  <img src="https://avatars.githubusercontent.com/u/48963328?v=4" width="200" alt="Tahira Jannat">
 </p>
 
 <h1 align="center">Hello, I'm Tahira Jannat! 👋</h1>
