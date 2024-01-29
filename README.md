@@ -16,6 +16,8 @@ Let's code and create delightful user interfaces together! 💻✨
 
 <!-- ### Hi there, I'm Tahira Jannat! 👋 -->
 
+<!-- ### Hi there, I'm Tahira Jannat! 👋 -->
+
 <p align="center">
   <img src="https://your-image-url-here.jpg" width="200" alt="Tahira Jannat">
 </p>
@@ -25,6 +27,10 @@ Let's code and create delightful user interfaces together! 💻✨
 <p align="center">Frontend Developer | WebAppick</p>
 
 ---
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer Icon">
+</p>
 
 - 🌱 Currently exploring databases, Rest APIs, and the intricacies of React.
 - 🔭 Crafting seamless user interfaces at WebAppick.
