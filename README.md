@@ -33,7 +33,7 @@ Let's code and create delightful user interfaces together! 💻✨
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon">
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS Icon">
+  <img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss" alt="Tailwind CSS Icon">
 </p>
 
 - 🌱 Currently exploring databases, Rest APIs, and the intricacies of React.
