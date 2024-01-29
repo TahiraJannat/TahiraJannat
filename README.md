@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I am Tahira Jannat 👋
 
-<!--
+
 **TahiraJannat/TahiraJannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on WebAppick as a Frontend Developer.
+- 🌱 Constantly learning about databases, Rest APIs, and best practices in React and frontend coding.
+- 💬 Ask me about anything related to frontend development, and I'd be happy to help!
+- 😄 Pronouns: Taa-hi-rah jan-nat
+- ⚡ Fun fact: I believe that good design enhances the overall user experience!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find Me Around the Web 🌍
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [WordPress](https://yourwordpresswebsite.com)
+- [Facebook](https://www.facebook.com/your-facebook-profile)
+
+Let's code and create delightful user interfaces together! 💻✨
+
