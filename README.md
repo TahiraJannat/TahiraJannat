@@ -8,8 +8,8 @@
 
 
 ## Find Me Around the Web 🌍
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [WordPress](https://yourwordpresswebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/tahira-jannat-2ab91018b/)
+- [WordPress](https://profiles.wordpress.org/tahirajannat/)
 - [Facebook](https://www.facebook.com/your-facebook-profile)
 
 Let's code and create delightful user interfaces together! 💻✨
