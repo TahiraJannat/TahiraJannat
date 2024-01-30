@@ -1,0 +1,20 @@
+name: Update README with GitHub stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          sed -i '/<img src="https:\/\/raw.githubusercontent.com\/TahiraJannat\/github-stats-transparent\/output\/generated\/overview.svg" alt="GitHub Overview" style="max-width: 100%;">/!b;n;c<img src="https://raw.githubusercontent.com/TahiraJannat/github-stats-transparent/output/generated/overview.svg?rand=$RANDOM" alt="GitHub Overview" style="max-width: 100%;">' README.md
+          sed -i '/<img src="https:\/\/raw.githubusercontent.com\/TahiraJannat\/github-stats-transparent\/output\/generated\/languages.svg" alt="GitHub Languages" style="max-width: 100%;">/!b;n;c<img src="https://raw.githubusercontent.com/TahiraJannat/github-stats-transparent/output/generated/languages.svg?rand=$RANDOM" alt="GitHub Languages" style="max-width: 100%;">' README.md
+
+        env:
+          RANDOM: ${{ github.run_number }}
