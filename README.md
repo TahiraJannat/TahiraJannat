@@ -16,7 +16,8 @@
 <a href="https://instagram.com/iamtahirajannat" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</br>
+
+<br/> 
 
 <img src="./terminal (2).gif" alt="terminal gif">
 
@@ -64,12 +65,19 @@ Let's code and create delightful user interfaces together! 💻✨
 </p>
 
 <br/>  
-
+<!---
 <div align='center'>
 
  [![](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
 
 </div>
+-->
+<table><tr width="100%"><td valign="top" width="50%">
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
+</td><td valign="top" width="50%">
+
+![tahirajannat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirajannat&theme=blue-green&show_icons=true&hide_border=false&layout=compact)</td></tr></table>  
 <br />
 
 
@@ -102,9 +110,10 @@ Let's code and create delightful user interfaces together! 💻✨
 <br/>  
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
--->
+
 
 ![TahiraJannat's Stats](https://github-readme-stats.vercel.app/api?username=TahiraJannat&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![TahiraJannat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahiraJannat&theme=vue-dark&hide_border=true)
 ![TahiraJannat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahiraJannat&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+-->
