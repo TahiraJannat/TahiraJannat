@@ -90,6 +90,7 @@ Let's code and create delightful user interfaces together! 💻✨
 
 <br/>  
 
+
   
 
 <br/>  
@@ -97,5 +98,7 @@ Let's code and create delightful user interfaces together! 💻✨
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 -->
 
-
+![TahiraJannat's Stats](https://github-readme-stats.vercel.app/api?username=TahiraJannat&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![TahiraJannat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahiraJannat&theme=vue-dark&hide_border=true)
+![TahiraJannat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahiraJannat&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
