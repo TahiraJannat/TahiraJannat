@@ -53,12 +53,15 @@ Let's code and create delightful user interfaces together! 💻✨
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>&nbsp;&nbsp;
       <a href="#">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</a>&nbsp;&nbsp;
      <a href="#">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>&nbsp;&nbsp;
      <a href="#">
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </a>&nbsp;&nbsp;
+<a href="#">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="#">
@@ -74,9 +77,6 @@ Let's code and create delightful user interfaces together! 💻✨
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">    
 </a>&nbsp;&nbsp;
     <a href="#">
-  <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">    
-</a>&nbsp;&nbsp;
-    <a href="#">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </a>&nbsp;&nbsp;
       <a href="#">
@@ -84,16 +84,10 @@ Let's code and create delightful user interfaces together! 💻✨
 </a>&nbsp;&nbsp;
 </p>
 <br/>  
-<!---
-<div align='center'>
 
+<table border="0" style="border: 1px solid red"><tr  style="border: 3px solid red" width="100%"><td border="0" valign="top" width="50%">  
+  
  [![](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
-
-</div>
--->
-<table border="0" style="border: 1px solid red"><tr  style="border: 3px solid red" width="100%"><td border="0" valign="top" width="50%">
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
 </td><td valign="top" width="50%">
 
 ![tahirajannat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirajannat&theme=blue-green&show_icons=true&hide_border=false&layout=compact)</td></tr></table>  
