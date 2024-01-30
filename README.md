@@ -72,7 +72,7 @@ Let's code and create delightful user interfaces together! 💻✨
 
 </div>
 -->
-<table><tr width="100%"><td valign="top" width="50%">
+<table border="0"><tr width="100%"><td valign="top" width="50%">
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
 </td><td valign="top" width="50%">
