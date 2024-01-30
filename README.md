@@ -16,19 +16,23 @@
 <a href="https://instagram.com/iamtahirajannat" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+</br>
 
 <img src="./terminal (2).gif" alt="terminal gif">
-
+----
+<!---
 ### Glad to see you here!  
 A passionate Frontend Developer with a love for crafting exceptional user experiences.  Currently contributing to <a href='#'>WebAppick</a>. I bring designs to life with clean and semantic code, ensuring visually appealing and responsive web interfaces. Proficient in React.js, I leverage its component-based architecture to build robust and scalable applications. A fan of utility-first CSS frameworks, I use Tailwind CSS to streamline styling, ensuring a maintainable and consistent design system. Exploring new trends and best practices in frontend development to stay ahead in this ever-evolving tech landscape.
-
+<!---
 ### Fun Facts
+
+<!---
 
 - 😄 Pronouns: Taa-hi-rah jan-nat
 - ⚡ Fun fact: I believe that good design enhances the overall user experience!
 
 Let's code and create delightful user interfaces together! 💻✨
-  
+----->
 
 <br/> 
 
