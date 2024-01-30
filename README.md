@@ -89,8 +89,9 @@ Automatically generate summary GitHub statistics images for your profile using A
 
 📍 For example : &nbsp;
 
-<p dir="auto"><img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
+<p dir="auto"><img src="https://raw.githubusercontent.com/TahiraJannat/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/TahiraJannat/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
+[![Update README with GitHub stats](https://github.com/TahiraJannat/TahiraJannat/actions/workflows/main.yml/badge.svg)](https://github.com/TahiraJannat/TahiraJannat/actions/workflows/main.yml)
 
 <br/>
 <br/>
@@ -108,4 +109,12 @@ Automatically generate summary GitHub statistics images for your profile using A
 <img src="{BadgeURLHere}" />
 
 ```
+
+## GitHub Stats
+
+<div align='center'>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=TahiraJannat&theme=react&hide_border=true)
+
+</div>
 
