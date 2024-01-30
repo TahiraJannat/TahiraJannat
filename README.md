@@ -20,7 +20,6 @@
 <br/> 
 
 <img src="./terminal (2).gif" alt="terminal gif">
-
 <!---
 ### Glad to see you here!  
 A passionate Frontend Developer with a love for crafting exceptional user experiences.  Currently contributing to <a href='#'>WebAppick</a>. I bring designs to life with clean and semantic code, ensuring visually appealing and responsive web interfaces. Proficient in React.js, I leverage its component-based architecture to build robust and scalable applications. A fan of utility-first CSS frameworks, I use Tailwind CSS to streamline styling, ensuring a maintainable and consistent design system. Exploring new trends and best practices in frontend development to stay ahead in this ever-evolving tech landscape.
@@ -35,11 +34,8 @@ A passionate Frontend Developer with a love for crafting exceptional user experi
 Let's code and create delightful user interfaces together! 💻✨
 ----->
 
-<br/> 
-
 ## Languages and Tools  
 <br />
-
 <p =''>
  <a href="#">
   <img alt="GitHub Repo stars" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -72,7 +68,7 @@ Let's code and create delightful user interfaces together! 💻✨
 
 </div>
 -->
-<table border="0"><tr width="100%"><td valign="top" width="50%">
+<table border="0" style="border: 1px solid red"><tr border="0" width="100%"><td valign="top" width="50%">
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
 </td><td valign="top" width="50%">
