@@ -18,8 +18,11 @@ Let's code and create delightful user interfaces together! 💻✨
 Hi there 👋 I'm Tahira Jannat! 
 </h1>
 <p align='center'> 
- Frontend Web Developer From Bangladesh.
+ Working as a Frontend Web Developer at <a href="#">WebAppick.</a>
 </p>
+<div align='center'>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
+</div>
 
 <p align='center'>
  <a href="">
@@ -62,59 +65,6 @@ Hi there 👋 I'm Tahira Jannat!
 </a>&nbsp;&nbsp;
 </p>
 
- <p colspan="2" align="center">
-      <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-      <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-      <details><summary>Default algorithm</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-      <details><summary>Default algorithm (with details)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </p>
-    <img src="https://github.com/lowlighter/metrics/blob/examples/.cache/example-languages-pdf.svg">
-
-#### 26 . [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-
-Generates a snake game from a github user contributions graph
-
-📍 For example : &nbsp;
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
-
-<br/>
-<br/>
 
 
-#### 27 . [Github Stats Transparent](https://github.com/TahiraJannat/github-stats-transparent)
-
-Automatically generate summary GitHub statistics images for your profile using Actions, no server required
-
-📍 For example : &nbsp;
-
-<p dir="auto"><img src="https://raw.githubusercontent.com/TahiraJannat/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/TahiraJannat/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
-[![Update README with GitHub stats](https://github.com/TahiraJannat/TahiraJannat/actions/workflows/main.yml/badge.svg)](https://github.com/TahiraJannat/TahiraJannat/actions/workflows/main.yml)
-
-<br/>
-<br/>
-
-
-
-## How to use?
-
-1. Get a URL:
-   - You can use <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) or <kbd>⌘</kbd> <kbd>F</kbd> (mac) for find one
-     
-2. Create a image tag:
-
-```
-<img src="{BadgeURLHere}" />
-
-```
-
-## GitHub Stats
-
-<div align='center'>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TahiraJannat&theme=react&hide_border=true)
-
-</div>
 
