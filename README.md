@@ -14,48 +14,98 @@
 
 Let's code and create delightful user interfaces together! 💻✨
 
-<!-- ### Hi there, I'm Tahira Jannat! 👋 -->
-
-<!-- ### Hi there, I'm Tahira Jannat! 👋 -->
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/48963328?v=4" width="200" alt="Tahira Jannat">
+<h1 align='center'> 
+Hi there 👋 I'm Tahira Jannat! 
+</h1>
+<p align='center'> 
+ Frontend Web Developer From Bangladesh.
 </p>
 
-<h1 align="center">Hello, I'm Tahira Jannat! 👋</h1>
-
-<p align="center">Frontend Developer | WebAppick</p>
-
----
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS Icon">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon">
-  <img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss" alt="Tailwind CSS Icon">
+<p align='center'>
+ <a href="">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />        
+  </a>&nbsp;&nbsp;
+  <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+</a>&nbsp;&nbsp;
+   <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>&nbsp;&nbsp;
+   <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>&nbsp;&nbsp;
+     <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>&nbsp;&nbsp;
+     <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>&nbsp;&nbsp;
+      <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</a>&nbsp;&nbsp;
+      <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</a>&nbsp;&nbsp;
+      <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</a>&nbsp;&nbsp;
 </p>
 
-- 🌱 Currently exploring databases, Rest APIs, and the intricacies of React.
-- 🔭 Crafting seamless user interfaces at WebAppick.
-- 💬 Let's chat about frontend development and user experience design!
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+<br />
+###💻 My workspace
+<p align='center'>
+   <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+</a>&nbsp;&nbsp;
+      <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+</a>&nbsp;&nbsp;
+</p>
 
----
+ <p colspan="2" align="center">
+      <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+      <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
+      <details><summary>Default algorithm</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
+      <details><summary>Default algorithm (with details)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </p>
+    <img src="https://github.com/lowlighter/metrics/blob/examples/.cache/example-languages-pdf.svg">
 
-### About Me
+#### 26 . [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
-I'm Tahira Jannat, passionate about translating ideas into visually stunning and user-friendly interfaces. Here's what I'm all about:
+Generates a snake game from a github user contributions graph
 
-- **Creative Coding**: Bringing designs to life with HTML, CSS, and JavaScript.
-- **User-Centric Design**: Ensuring every pixel enhances the user experience.
-- **Continuous Learning**: Exploring new technologies and design trends to stay ahead of the curve.
+📍 For example : &nbsp;
 
-### Fun Facts
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
-- 😄 Pronouns: Taa-hi-rah jan-nat
-- ⚡ Fun fact: I believe that good design enhances the overall user experience!
+<br/>
+<br/>
 
----
 
-Let's code and create delightful user interfaces together! 💻✨
+#### 27 . [Github Stats Transparent](https://github.com/TahiraJannat/github-stats-transparent)
+
+Automatically generate summary GitHub statistics images for your profile using Actions, no server required
+
+📍 For example : &nbsp;
+
+<p dir="auto"><img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg" alt="" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="" style="max-width: 100%;"></p>
+
+<br/>
+<br/>
+
+
+
+## How to use?
+
+1. Get a URL:
+   - You can use <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) or <kbd>⌘</kbd> <kbd>F</kbd> (mac) for find one
+     
+2. Create a image tag:
+
+```
+<img src="{BadgeURLHere}" />
+
+```
+
