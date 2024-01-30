@@ -1,13 +1,13 @@
 ## Hey 👋, I'm Tahira Jannat!  
   
 
-<a href="https://github.com/TahiraJannat" target="_blank">
+<a href="https://github.com/tahirajannat" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamtahirajannat" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/iamtahirajannat" target="_blank">
+<a href="https://linkedin.com/in/tahirajannat" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/iamtahirajannat" target="_blank">
@@ -16,7 +16,9 @@
 <a href="https://instagram.com/iamtahirajannat" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+
+<img src="./terminal(1).gif" alt="terminal gif">
+
 ### Glad to see you here!  
 A passionate Frontend Developer with a love for crafting exceptional user experiences.  Currently contributing to <a href='#'>WebAppick</a>. I bring designs to life with clean and semantic code, ensuring visually appealing and responsive web interfaces. Proficient in React.js, I leverage its component-based architecture to build robust and scalable applications. A fan of utility-first CSS frameworks, I use Tailwind CSS to streamline styling, ensuring a maintainable and consistent design system. Exploring new trends and best practices in frontend development to stay ahead in this ever-evolving tech landscape.
 
