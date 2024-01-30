@@ -18,11 +18,10 @@ Let's code and create delightful user interfaces together! 💻✨
 Hi there 👋 I'm Tahira Jannat! 
 </h1>
 <p align='center'> 
- Working as a Frontend Web Developer at <a href="#">WebAppick.</a>
-</p>
-<div align='center'>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
-</div>
+ Working as a Frontend Web Developer at <a href='#'>WebAppick.</a>&nbsp;&nbsp;
+</p>&nbsp;&nbsp;
+</br>
+
 
 <p align='center'>
  <a href="">
@@ -53,7 +52,9 @@ Hi there 👋 I'm Tahira Jannat!
   <img alt="GitHub Repo stars" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </a>&nbsp;&nbsp;
 </p>
-
+<p align-'center>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
+</p>
 <br />
 ###💻 My workspace
 <p align='center'>
