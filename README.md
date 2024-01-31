@@ -85,10 +85,10 @@ Let's code and create delightful user interfaces together! 💻✨
 </p>
 <br/>  
 
-<table border="0" style="border: 1px solid red"><tr  style="border: 3px solid red" width="100%"><td border="0" valign="top" width="50%">  
+<table border="0" style="border: 1px solid red"><tr  style="border: 3px solid red" width="100%"><td border="0" valign="top" width="52%">  
   
  [![](https://github-readme-streak-stats.herokuapp.com?user=TahiraJannat&background=000000&border=FF9707&stroke=EBD84D&ring=FF9707&fire=FF9707&currStreakNum=FF9707&sideNums=60EBBE&currStreakLabel=EBEBEB&sideLabels=FF9707&dates=EBEBEB&excludeDaysLabel=D2EB10)](https://git.io/streak-stats)
-</td><td valign="top" width="50%">
+</td><td valign="top" width="48%">
 
 ![tahirajannat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirajannat&theme=blue-green&show_icons=true&hide_border=false&layout=compact)</td></tr></table>  
 <br />
